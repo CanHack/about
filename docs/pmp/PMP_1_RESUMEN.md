@@ -46,10 +46,11 @@ Discrecional: Definidas por el equipo de gestión del proyecto.
 Externa: Producida por factores ajenos al proyecto como proveedores o gestiones externas.
 
 
-nº | Descripción | Tipo M, D, E
+nº | Descripción | Tipo O, D, E
 ---------- | ------- | -------------------
-1 | 0 | _
-2 | 0 | _
+1 | Disponibilidad de local para albergar el talller | D
+2 | Inscripción como asociación sin ánimo de lucro | O
+3 | Servidor web y de correo| E
 
 
 Supuestos previos
@@ -66,8 +67,24 @@ nº | Descripción
 Riesgos iniciales identificados
 ----------------
 
-nº | Probabilidad | Impacto
+nº | Descripcion | Probabilidad | Impacto
 ---------- | ------- | ----
-Descripción | Baja | Alto
-||Estrategia de mitigación
-||Plan de contingencia
+1|Pocas inscripciones | Alta | Alto
+2|Costes fijos elevados| Media | Alto
+3|Denegacion de inscripcion | Baja | Medio
+
+Estrategias de mitigación
+--------------------------
+nª | Descripcion
+---|-------------
+|
+|
+|
+
+Plan de contingencia
+--------------------------
+nª | Descripcion
+---|-------------
+|
+|
+|
