@@ -32,6 +32,8 @@ nº | Descripción
 1 | Todas las actuaciones atribuibles a Can Hack se desarrollarán dentro del marco de los reglamentos.
 2 | Los reglamentos se redactarán a partir de los estatutos fundacionales
 3 | Los proyectos o actuaciones atribuibles a Can Hack se desarrollarán a partir de grupos de trabajo previamente constituidos, sin perjuicio de desarrollos individuales o colectivos bajo la responsabilidad exclusiva de su promotor.
+4 | El alcance del proyecto comprende: Constitución de la razón social, establecimiento de la ubicación física y arranque de las actividades posteriores.
+5 |
 
 
 Dependencias
@@ -66,6 +68,72 @@ nº | Descripción
 
 Riesgos iniciales identificados
 ----------------
+
+<!--
+<table border="2" width="0">
+<tr>
+<th></th><th>Column Header One</th><th>Column Header Two</th><th>Column Header Three</th>
+</tr>
+<tr>
+<td align="right">Row Hdr 1</td><td align="left">Left Aligned</td><td align="center">Centre Aligned</td><td align="right">Right Aligned</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 2</td><td colspan="2" align="left">colspan the next cell</td><td align="right">Row 2, Col 3</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 3</td><td colspan="3" align="left">colspan the next two cells</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 4</td><td rowspan="2" align="left">rowspan the next cell down</td><td align="center"></td><td align="right">Column 3</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 5</td><td align="center">Column 2</td><td align="right">Column 3</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 6</td><td rowspan="3" align="left">Merge Down 2</td><td colspan="2" align="center">Merge Right</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 7</td><td align="right">Column 2</td><td align="left">Column 3</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 8</td><td align="right">Column 2</td><td align="left">Column 3</td>
+</tr>
+</table>
+-->
+
+
+<table border="2" width="0">
+<tr>
+<th></th><th>Descripcion</th><th>Probabilidad</th><th>Impacto</th>
+</tr>
+<tr>
+<td rowspan="2" align="right">Pocas inscripciones</td><td align="center">Centre Aligned</td><td align="right">Right Aligned</td>
+</tr>
+<tr>
+<td colspan="2" align="left">colspan the next cell</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 3</td><td colspan="3" align="left">colspan the next two cells</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 4</td><td rowspan="2" align="left">rowspan the next cell down</td><td align="center"></td><td align="right">Column 3</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 5</td><td align="center">Column 2</td><td align="right">Column 3</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 6</td><td rowspan="3" align="left">Merge Down 2</td><td colspan="2" align="center">Merge Right</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 7</td><td align="right">Column 2</td><td align="left">Column 3</td>
+</tr>
+<tr>
+<td align="right">Row Hdr 8</td><td align="right">Column 2</td><td align="left">Column 3</td>
+</tr>
+</table>
+
+
+
 
 nº | Descripcion | Probabilidad | Impacto
 ---------- | ------- | ----
